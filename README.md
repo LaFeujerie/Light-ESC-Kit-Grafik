@@ -7,7 +7,7 @@
 <li>HTML / CSS</li>
 <li>JAVA</li>
 
-<quote>   <div class="tile-link-wrapper double-width height">
+<xmp>   <div class="tile-link-wrapper double-width height">
                 <a href="navigation.html" class="tile-link double-width height">
                     <div class="tile double-width bg-teal link-adjust" data-click="transform">
                         <div class="tile-content icon">
@@ -18,4 +18,4 @@
                         </div>
                     </div>
                 </a>
-            </div></quote>
+            </div></xmp>

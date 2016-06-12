@@ -1,0 +1,19 @@
+BDD:
+
+lightesculadmin.mysql.db
+lightesculadmin
+Alexkaan123
+
+
+FTP:
+
+ftp.cluster003.ovh.net
+lightescul
+Alexkaan123
+
+14 Mai 16h00
+
+OVH Account
+
+login: ga221107
+mdp: Aa123456
